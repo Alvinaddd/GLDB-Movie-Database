@@ -1,0 +1,4 @@
+.DS_Store
+nodemon
+node_modules
+api/node_modules
